@@ -1,0 +1,33 @@
+# sbt specific
+.cache
+.history
+.lib/
+sbt/*
+dist/*
+target/*
+lib_managed/
+src_managed/
+project/*
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
